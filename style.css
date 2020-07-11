@@ -1,0 +1,131 @@
+body{
+    background-color:#0f172d;
+    overflow: hidden;
+}
+.navv{
+    background-color: #131c37;
+    height: 92vh;
+
+}
+.nav-link{
+    padding-bottom:20px ;
+    color:#5f6578;
+  
+    font-weight: 500;
+    
+}
+.logo{
+    color: #ffffff;
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.active{
+    color: #ffffff;
+}
+.sec{
+
+
+    color:#5f6578;
+    list-style-type: none;
+    margin-top: 30px;
+
+    list-style: none;
+    font-weight: 500;
+    list-style-type: none;
+}
+.side{
+   
+    
+}
+.bi{
+    margin-top: 35px;
+
+    color:#ffffff;
+    font-weight: 500;
+}
+.bi:hover{
+color: #d450b8;
+
+}
+.profile{
+    width: 35px;
+    margin-top:-2px;
+}
+.play{
+    margin-top:20px ;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    color: #ffffff;
+}
+.span
+{
+    width: 90px;
+}
+.songs>li{
+    color:#ffffff;
+    list-style-type: none;
+
+    font-weight: 500;
+    list-style-type: none;
+}
+.des{
+color:#5f6578;
+}
+.name{
+padding-top: 5px;
+color:#ffffff;
+font-weight: 500;
+letter-spacing: 1px;
+font-size: 13px;
+}
+.space{
+    margin-bottom: 10px;
+
+}
+.space:hover{
+    background-color: #0a132b;
+    border-radius: 10px;
+}
+.midimg{
+    margin-top: 50px;
+    width: 350px;
+    margin-left:220px ;
+align-items: center;
+}
+.midt{margin-top: 20px;
+    color: #ffffff;
+    font-size: x-large;
+    letter-spacing:20px;
+    text-align: center;
+    font-weight:300 ;
+}
+.midtt{margin-top: 10px;
+    color: #5f6578;
+    
+    letter-spacing:4px;
+    text-align: center;
+    font-weight:500 ;
+}
+.midttt{margin-top: 10px;
+    color: #5f6578;
+    
+    letter-spacing:2px;
+    font-size: 13px;
+    text-align: center;
+    font-weight:400 ;
+    margin-top: 20px;
+}
+.footer
+{
+    height: 8vh;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    padding-top:15px ;
+    font-weight: 300;
+    letter-spacing: 2px;
+    
+background: linear-gradient(90deg, #0f172d , #131c37 );
+}
